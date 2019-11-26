@@ -11,44 +11,87 @@ var surveyJSON = {"completedHtml":"<div id=\"container\">\n</div>","pages":[{"na
 
 var Jobs = [
 	{
+	"Title": "Sr. Marketing Insights Analyst",
+	"Description": "This role within CIMA will coordinate efforts to influence Marketing and Media spend to generate the highest Return on Investment possible.",
+	"DisneyKnowledge": 1,
+	"MicrosoftOffice": 4,
+	"EducationLevel": 2,
+	"Technology": true,
+	"Strangers": 3
+	, "Include": true },
+	{
 	"Title": "Medical Assistant",
 	"Description": "The Medical Assistant will maintain effective communication with peers, leaders and associates as well as ensure Health Services leadership remains apprised and updated on pertinent matters requiring attention.",
 	"DisneyKnowledge": 3,
 	"MicrosoftOffice": 4,
 	"EducationLevel": 1,
 	"Technology": false,
-    "Strangers": 5,
-    "Include": true
-    },
-    {
+	"Strangers": 5
+	, "Include": true },
+	{
 	"Title": "Housekeeping- Part-Time, Disney's Vero Beach Resort",
 	"Description": "Our Housekeeping Hosts and Hostesses help bring those dreams to life by creating special memories and a home-away-from-home experience for each of our guests every day.",
 	"DisneyKnowledge": 1,
 	"MicrosoftOffice": 1,
 	"EducationLevel": 1,
 	"Technology": false,
-	"Strangers": 2,
-    "Include": true
-    },
-    {
+	"Strangers": 2
+	, "Include": true },
+	{
 	"Title": "Tax Coordinator",
 	"Description": "The Income tax group is responsible for the preparation, filing, and audit of all US Income tax returns as well as certain informational returns, including W-9/W-8/Residency Certificates.",
 	"DisneyKnowledge": 1,
 	"MicrosoftOffice": 5,
 	"EducationLevel": 2,
 	"Technology": true,
-	"Strangers": 1,
-    "Include": true
-    },{
-        "Title": "Sr. Marketing Insights Analyst",
-        "Description": "This role within CIMA will coordinate efforts to influence Marketing and Media spend to generate the highest Return on Investment possible.",
-        "DisneyKnowledge": 1,
-        "MicrosoftOffice": 4,
-        "EducationLevel": 2,
-        "Technology": true,
-        "Strangers": 3,
-        "Include": true
-        }
+	"Strangers": 1
+	, "Include": true },
+	{
+	"Title": "Expeditor",
+	"Description": "The Expeditor provides direct support to assigned Disney Cruise Line Ship, and the Island.",
+	"DisneyKnowledge": 3,
+	"MicrosoftOffice": 4,
+	"EducationLevel": 3,
+	"Technology": false,
+	"Strangers": 2
+	, "Include": true },
+	{
+	"Title": "Aquarist (The Seas)",
+	"Description": "Aquarists are responsible for husbandry of the aquatic animal collections at EPCOT in concert with Senior Aquarists and under the direction and supervision of the Animal Care Management Team.",
+	"DisneyKnowledge": 1,
+	"MicrosoftOffice": 2,
+	"EducationLevel": 2,
+	"Technology": false,
+	"Strangers": 4
+	, "Include": true },
+	{
+	"Title": "Occupational Registered Nurse",
+	"Description": "The Occupational Registered Nurse will provide nursing assessment, treatment and recommendations to Cast Members related to illness or injury of Cast Members, within their Scope of Practice.",
+	"DisneyKnowledge": 1,
+	"MicrosoftOffice": 2,
+	"EducationLevel": 3,
+	"Technology": false,
+	"Strangers": 5
+	, "Include": true },
+	{
+	"Title": "Marketing Specialist (CT)",
+	"Description": "The Marketing Specialist (CT), under guidance from the Manager, coordinates the timely distribution of Disney University Marketing messages, ensuring accuracy, aesthetic appeal, and user-friendly navigation of Disney University interactive communications",
+	"DisneyKnowledge": 3,
+	"MicrosoftOffice": 3,
+	"EducationLevel": 2,
+	"Technology": false,
+	"Strangers": 1
+	, "Include": true },
+	{
+	"Title": "Account Manager, Talent Acquisition Marketing (Project Hire)",
+	"Description": "The Account Manager, Talent Acquisition Marketing will be responsible for the development and execution of marketing strategies on behalf of the recruitment organization across The Walt Disney Company and its affiliates.",
+	"DisneyKnowledge": 3,
+	"MicrosoftOffice": 3,
+	"EducationLevel": 3,
+	"Technology": false,
+    "Strangers": 3,
+    "Include": true 
+	}
 ]
 
 var final = []
